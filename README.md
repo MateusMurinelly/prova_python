@@ -10,7 +10,7 @@
     <h2>Como usar</h2>
     <p>As questões da prova estão organizadas em arquivos Python separados por "Q" referanciando a palavra "Questão" e o seu numero. Basta abrir cada arquivo e avaliar As respostas podem ser encontradas.</p>
     <h2>Contribuindo</h2>
-    <p>Se você gostou indique para um amigo, se não gostou😞 sinta-se à vontade para abrir um pull request. Sua contribuição é bem-vinda!</p>
+    <p>Se você gostou indique para um amigo, se não gostou😞 indique para um inimigo e também sinta-se à vontade para abrir um pull request. Sua contribuição é bem-vinda!</p>
     
   </body>
 </html>
